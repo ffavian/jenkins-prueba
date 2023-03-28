@@ -2,7 +2,7 @@ import subprocess
 import time
 
 # Configurar la ruta al directorio del repositorio
-repo_dir = './jenkins-prueba'
+repo_dir = './work.test'
 
 while True:
     # Ejecutar el comando git pull en el directorio del repositorio
